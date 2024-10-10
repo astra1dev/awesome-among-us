@@ -15,20 +15,20 @@ If you want to contribute, please open a pull request!
 
 # Mods
 
-These mods need to be installed by all players in the lobby.
+*Need to be installed by all players in the lobby.*
 
 - [LevelImposter](https://levelimposter.net) - create and play custom maps with ease
 
 ## Host-only Mods
 
-These mods only need to be installed by the host of the lobby.
+*Only need to be installed by the host of the lobby.*
 
 - [Town of Host](https://github.com/tukasa0001/TownOfHost)
 - [Town of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - enhanced and improved version of Town of Host
 
 ## Utility Mods
 
-These mods are designed to enhance your gameplay experience.
+*Designed to enhance your gameplay experience*
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
 - [Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
