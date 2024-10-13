@@ -21,6 +21,7 @@ If you want to contribute, please open a pull request!
 
 - [LevelImposter](https://levelimposter.net) - create and play custom maps with ease
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
+- [Modding Us](https://github.com/overnightau/moddingus) - mod based on the old version, but with lots of improvements and features
 
 ## Host-only Mods
 
@@ -57,5 +58,7 @@ If you want to contribute, please open a pull request!
 - [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
 - [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
 - [Version Comparisons](https://github.com/Pietrodjaowjao/AU-VersionComparisons) - view differences / compare Among Us versions to see what has changed
+- [AUWiki](https://auwiki.duikbo.at/) - documents the internal workings of Among Us
+- [sus.wiki](https://github.com/roobscoob/among-us-protocol) - writeup of the network protocol used in Among Us
 
 # Tools
