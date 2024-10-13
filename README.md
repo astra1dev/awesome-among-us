@@ -8,6 +8,8 @@ If you want to contribute, please open a pull request!
 - [Mods](#mods)
   - [Host-only Mods](#host-only-mods)
   - [Utility Mods](#utility-mods)
+- [Enhancements](#enhancements)
+- [Servers](#servers)
 - [Resources](#resources)
 - [Tools](#tools)
 
@@ -18,6 +20,7 @@ If you want to contribute, please open a pull request!
 *Need to be installed by all players in the lobby.*
 
 - [LevelImposter](https://levelimposter.net) - create and play custom maps with ease
+- [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
 
 ## Host-only Mods
 
@@ -33,9 +36,26 @@ If you want to contribute, please open a pull request!
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
 - [Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
 
+# Enhancements
+
+*External apps or utilties to enhance your experience*
+
+- [GLMod](https://github.com/MatuxGG/GLMod) - collect data inside Among Us to provide a complete match history and various stats on [Good Loss](https://goodloss.fr)
+- [Mod Manager](https://github.com/MatuxGG/ModManager) - manage your Among Us mods with ease
+
+# Servers
+
+*Play Among Us on non-official servers*
+
+- [Impostor](https://github.com/Impostor/Impostor) - open source reimplementation of the Among Us Server
+- [skeld.net](https://skeld.net/) - contains a lot of new game modes and modifiers 
+
 # Resources
 
 - [Reactor Discord server](https://reactor.gg/discord) - contains latest Among Us .dll source code files and a helping community
+- [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
+- [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
 - [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
+- [Version Comparisons](https://github.com/Pietrodjaowjao/AU-VersionComparisons) - view differences / compare Among Us versions to see what has changed
 
 # Tools
