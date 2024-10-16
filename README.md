@@ -20,6 +20,7 @@ If you want to contribute, please open a pull request!
 *Need to be installed by all players in the lobby.*
 
 - [LevelImposter](https://levelimposter.net) - create and play custom maps with ease
+- [Submerged](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
 - [Modding Us](https://github.com/overnightau/moddingus) - mod based on the old version, but with lots of improvements and features
 
@@ -36,6 +37,7 @@ If you want to contribute, please open a pull request!
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
 - [Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
+- [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
 
 # Enhancements
 
