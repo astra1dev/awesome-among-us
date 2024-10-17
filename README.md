@@ -21,6 +21,7 @@ If you want to contribute, please open a pull request!
 
 - [LevelImposter](https://levelimposter.net) - create and play custom maps with ease
 - [Submerged](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
+- [BetterPolus](https://github.com/Brybry16/BetterPolus) - modified and more balanced Polus map
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
 - [Modding Us](https://github.com/overnightau/moddingus) - mod based on the old version, but with lots of improvements and features
 
@@ -28,8 +29,10 @@ If you want to contribute, please open a pull request!
 
 *Only need to be installed by the host of the lobby.*
 
-- [Town of Host](https://github.com/tukasa0001/TownOfHost)
+- [Town of Host](https://github.com/tukasa0001/TownOfHost) - chat commands, roles, add-ons
 - [Town of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - enhanced and improved version of Town of Host
+- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - over 400 roles and 10 gamemodes
+- [MoreGamemodes](https://github.com/Rabek009/MoreGamemodes) - more gamemodes
 
 ## Utility Mods
 
@@ -38,6 +41,7 @@ If you want to contribute, please open a pull request!
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
 - [Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
 - [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
+- [NikoCat233's CrowdedMod](https://github.com/NikoCat233/CrowdedMod) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
 
 # Enhancements
 
@@ -45,6 +49,8 @@ If you want to contribute, please open a pull request!
 
 - [GLMod](https://github.com/MatuxGG/GLMod) - collect data inside Among Us to provide a complete match history and various stats on [Good Loss](https://goodloss.fr)
 - [Mod Manager](https://github.com/MatuxGG/ModManager) - manage your Among Us mods with ease
+- [AutoMuteUs](https://automute.us/) - discord bot collecting game data to automatically mute/unmute players during games
+- [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink/) - proximity chat
 
 # Servers
 
