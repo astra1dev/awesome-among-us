@@ -23,7 +23,8 @@ If you want to contribute, please open a pull request!
 - [Submerged](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
 - [BetterPolus](https://github.com/Brybry16/BetterPolus) - modified and more balanced Polus map
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
-- [Modding Us](https://github.com/overnightau/moddingus) - mod based on the old version, but with lots of improvements and features
+- [Modding Us](https://github.com/overnightau/moddingus) - based on an old game version, but with lots of improvements and features
+- [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
 
 ## Host-only Mods
 
@@ -41,6 +42,7 @@ If you want to contribute, please open a pull request!
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
 - [Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
 - [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
+- [Mini.OutfitExporter](https://github.com/miniduikboot/Mini.OutfitExporter) - import and export your in-game outfit as a JSON file
 - [NikoCat233's CrowdedMod](https://github.com/NikoCat233/CrowdedMod) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
 
 # Enhancements
