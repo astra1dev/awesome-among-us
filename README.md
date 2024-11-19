@@ -66,6 +66,7 @@ If you want to contribute, please open a pull request!
 - [Reactor Discord server](https://reactor.gg/discord) - contains latest Among Us .dll source code files and a helping community
 - [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
 - [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
+- [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - modding framework built for making youtube video mods
 - [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
 - [Version Comparisons](https://github.com/Pietrodjaowjao/AU-VersionComparisons) - view differences / compare Among Us versions to see what has changed
 - [AUWiki](https://auwiki.duikbo.at/) - documents the internal workings of Among Us
