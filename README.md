@@ -44,6 +44,7 @@ If you want to contribute, please open a pull request!
 - [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
 - [Mini.OutfitExporter](https://github.com/miniduikboot/Mini.OutfitExporter) - import and export your in-game outfit as a JSON file
 - [NikoCat233's CrowdedMod](https://github.com/NikoCat233/CrowdedMod) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
+- [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
 
 # Enhancements
 
