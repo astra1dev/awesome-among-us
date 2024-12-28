@@ -74,3 +74,5 @@ If you want to contribute, please open a pull request!
 - [sus.wiki](https://github.com/roobscoob/among-us-protocol) - writeup of the network protocol used in Among Us
 
 # Tools
+
+- [Among Us AI](https://github.com/TimShaw1/Among-Us-AI) - an AI that plays Among Us
