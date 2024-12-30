@@ -45,6 +45,7 @@ If you want to contribute, please open a pull request!
 - [Mini.OutfitExporter](https://github.com/miniduikboot/Mini.OutfitExporter) - import and export your in-game outfit as a JSON file
 - [NikoCat233's CrowdedMod](https://github.com/NikoCat233/CrowdedMod) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
 - [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
+- [VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of QoL (quality-of-life) improvements
 
 # Enhancements
 
@@ -52,15 +53,15 @@ If you want to contribute, please open a pull request!
 
 - [GLMod](https://github.com/MatuxGG/GLMod) - collect data inside Among Us to provide a complete match history and various stats on [Good Loss](https://goodloss.fr)
 - [Mod Manager](https://github.com/MatuxGG/ModManager) - manage your Among Us mods with ease
-- [AutoMuteUs](https://automute.us/) - discord bot collecting game data to automatically mute/unmute players during games
-- [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink/) - proximity chat
+- [AutoMuteUs](https://automute.us) - discord bot collecting game data to automatically mute/unmute players during games
+- [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - proximity chat
 
 # Servers
 
 *Play Among Us on non-official servers*
 
 - [Impostor](https://github.com/Impostor/Impostor) - open source reimplementation of the Among Us Server
-- [skeld.net](https://skeld.net/) - contains a lot of new game modes and modifiers 
+- [skeld.net](https://skeld.net) - contains a lot of new game modes and modifiers 
 
 # Resources
 
@@ -70,7 +71,7 @@ If you want to contribute, please open a pull request!
 - [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - modding framework built for making youtube video mods
 - [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
 - [Version Comparisons](https://github.com/Pietrodjaowjao/AU-VersionComparisons) - view differences / compare Among Us versions to see what has changed
-- [AUWiki](https://auwiki.duikbo.at/) - documents the internal workings of Among Us
+- [AUWiki](https://auwiki.duikbo.at) - documents the internal workings of Among Us
 - [sus.wiki](https://github.com/roobscoob/among-us-protocol) - writeup of the network protocol used in Among Us
 
 # Tools
