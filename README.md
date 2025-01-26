@@ -25,6 +25,9 @@ If you want to contribute, please open a pull request!
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
 - [Modding Us](https://github.com/overnightau/moddingus) - based on an old game version, but with lots of improvements and features
 - [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
+- [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - adds many new roles, new Settings and new Custom Hats
+- [StellarRolesAU](https://github.com/Mr-Fluuff/StellarRolesAU) - adds new Roles, new Settings and new Custom Cosmetics
+- [AllTheRoles](https://github.com/Zeo666/AllTheRoles) - adds many new roles, modifiers, game modes, map settings, hats and more
 
 ## Host-only Mods
 
@@ -61,7 +64,8 @@ If you want to contribute, please open a pull request!
 *Play Among Us on non-official servers*
 
 - [Impostor](https://github.com/Impostor/Impostor) - open source reimplementation of the Among Us Server
-- [skeld.net](https://skeld.net) - contains a lot of new game modes and modifiers 
+- [skeld.net](https://skeld.net) - contains a lot of new game modes and modifiers
+- [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, gamemodes, and features
 
 # Resources
 
