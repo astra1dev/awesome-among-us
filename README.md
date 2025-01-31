@@ -55,8 +55,9 @@ If you want to contribute, please open a pull request!
 
 *External apps or utilties to enhance your experience*
 
+- [Dropship](https://github.com/xChipseq/Dropship) - clean mod launcher and manager
 - [GLMod](https://github.com/MatuxGG/GLMod) - collect data inside Among Us to provide a complete match history and various stats on [Good Loss](https://goodloss.fr)
-- [Mod Manager](https://github.com/MatuxGG/ModManager) - manage your Among Us mods with ease
+- [Mod Manager](https://github.com/MatuxGG/ModManager) (discontinued) - manage your Among Us mods with ease
 - [AutoMuteUs](https://automute.us) - discord bot collecting game data to automatically mute/unmute players during games
 - [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - proximity chat
 
