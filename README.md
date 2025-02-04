@@ -50,6 +50,7 @@ If you want to contribute, please open a pull request!
 - [NikoCat233's CrowdedMod](https://github.com/NikoCat233/CrowdedMod) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
 - [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
 - [VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of QoL (quality-of-life) improvements
+- [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat
 
 # Enhancements
 
