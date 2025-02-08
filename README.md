@@ -24,11 +24,12 @@ If you want to contribute, please open a pull request!
 - [BetterPolus](https://github.com/Brybry16/BetterPolus) - modified and more balanced Polus map
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
 - [Modding Us](https://github.com/overnightau/moddingus) - based on an old game version, but with lots of improvements and features
-- [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, gamemodes, and features
+- [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, game modes, and features
 - [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
-- [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - adds many new roles, new Settings and new Custom Hats
-- [StellarRolesAU](https://github.com/Mr-Fluuff/StellarRolesAU) - adds new Roles, new Settings and new Custom Cosmetics
-- [AllTheRoles](https://github.com/Zeo666/AllTheRoles) - adds many new roles, modifiers, game modes, map settings, hats and more
+- [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - many new roles, settings and custom hats
+- [StellarRolesAU](https://github.com/Mr-Fluuff/StellarRolesAU) - new roles, settings and custom cosmetics
+- [AllTheRoles](https://github.com/Zeo666/AllTheRoles) - many new roles, modifiers, game modes, map settings, hats and more
+- [NewMod](https://github.com/CallOfCreator/NewMod) - new roles, abilities and game modes
 
 ## Host-only Mods
 
@@ -36,8 +37,8 @@ If you want to contribute, please open a pull request!
 
 - [Town of Host](https://github.com/tukasa0001/TownOfHost) - chat commands, roles, add-ons
 - [Town of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - enhanced and improved version of Town of Host
-- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - over 400 roles and 10 gamemodes
-- [MoreGamemodes](https://github.com/Rabek009/MoreGamemodes) - more gamemodes
+- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - over 400 roles and 10 game modes
+- [MoreGamemodes](https://github.com/Rabek009/MoreGamemodes) - more game modes
 
 ## Utility Mods
 
