@@ -8,6 +8,7 @@ If you want to contribute, please open a pull request!
 - [Mods](#mods)
   - [Host-only Mods](#host-only-mods)
   - [Utility Mods](#utility-mods)
+  - [Custom Maps](#custom-maps)
 - [Enhancements](#enhancements)
 - [Servers](#servers)
 - [Resources](#resources)
@@ -19,9 +20,6 @@ If you want to contribute, please open a pull request!
 
 *Need to be installed by all players in the lobby.*
 
-- [LevelImposter](https://levelimposter.net) - create and play custom maps with ease
-- [Submerged](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
-- [BetterPolus](https://github.com/Brybry16/BetterPolus) - modified and more balanced Polus map
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
 - [Modding Us](https://github.com/overnightau/moddingus) - based on an old game version, but with lots of improvements and features
 - [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, game modes, and features
@@ -40,6 +38,14 @@ If you want to contribute, please open a pull request!
 - [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - over 400 roles and 10 game modes
 - [MoreGamemodes](https://github.com/Rabek009/MoreGamemodes) - more game modes
 
+## Custom Maps
+
+*Need to be installed by all players in the lobby.*
+
+- [LevelImposter](https://levelimposter.net) - create and play custom maps with ease
+- [Submerged](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
+- [BetterPolus](https://github.com/Brybry16/BetterPolus) - modified and more balanced Polus map
+
 ## Utility Mods
 
 *Designed to enhance your gameplay experience*
@@ -51,7 +57,7 @@ If you want to contribute, please open a pull request!
 - [NikoCat233's CrowdedMod](https://github.com/NikoCat233/CrowdedMod) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
 - [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
 - [VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of QoL (quality-of-life) improvements
-- [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat
+- [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat (repo archived)
 
 # Enhancements
 
