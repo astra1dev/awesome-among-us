@@ -35,6 +35,7 @@ If you want to contribute, please open a pull request!
 
 - [Town of Host](https://github.com/tukasa0001/TownOfHost) - chat commands, roles, add-ons
 - [Town of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - enhanced and improved version of Town of Host
+- [Project Lotus](https://github.com/Lotus-AU/LotusContinued) - unique, beautiful, customizable. adds cosmetics, commands and hotkeys, and various options
 - [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - over 400 roles and 10 game modes
 - [MoreGamemodes](https://github.com/Rabek009/MoreGamemodes) - more game modes
 
