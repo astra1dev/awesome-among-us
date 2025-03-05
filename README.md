@@ -87,6 +87,7 @@ If you want to contribute, please open a pull request!
 - [Version Comparisons](https://github.com/Pietrodjaowjao/AU-VersionComparisons) - view differences / compare Among Us versions to see what has changed
 - [AUWiki](https://auwiki.duikbo.at) - documents the internal workings of Among Us
 - [sus.wiki](https://github.com/roobscoob/among-us-protocol) - writeup of the network protocol used in Among Us
+- [How to unstrip Unity Games](https://hackmd.io/@ghorsington/rJuLdZTzK), [alternative guide](https://www.reddit.com/r/cities2modding/comments/17h4wmk/guide_obtaining_unstripped_dlls_for_bepinex_in/)
 
 # Tools
 
