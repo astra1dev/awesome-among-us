@@ -21,6 +21,7 @@ If you want to contribute, please open a pull request!
 *Need to be installed by all players in the lobby.*
 
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
+- [Town of Us Mira](https://github.com/AU-Avengers/TOU-Mira) - Town of Us Reactivated, but cleaner using MiraAPI with many improvements
 - [Modding Us](https://github.com/overnightau/moddingus) - based on an old game version, but with lots of improvements and features
 - [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, game modes, and features
 - [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
@@ -81,11 +82,12 @@ If you want to contribute, please open a pull request!
 
 # Resources
 
-- [Reactor Discord server](https://reactor.gg/discord) - contains latest Among Us .dll source code files and a helping community
+- [Reactor Discord server](https://reactor.gg/discord) - contains latest Among Us Mono .dll files and a helping community
 - [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
 - [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
 - [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - modding framework built for making youtube video mods
-- [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
+- [BepInEx](https://github.com/BepInEx/BepInEx) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
+  - [BepInEx.SplashScreen](https://github.com/BepInEx/BepInEx.SplashScreen) - splash screen that shows loading progress of BepInEx mods
 - [Version Comparisons](https://github.com/Pietrodjaowjao/AU-VersionComparisons) - view differences / compare Among Us versions to see what has changed
 - [AUWiki](https://auwiki.duikbo.at) - documents the internal workings of Among Us
 - [sus.wiki](https://github.com/roobscoob/among-us-protocol) - writeup of the network protocol used in Among Us
