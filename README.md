@@ -57,6 +57,7 @@ If you want to contribute, please open a pull request!
 - [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
 - [Mini.OutfitExporter](https://github.com/miniduikboot/Mini.OutfitExporter) - import and export your in-game outfit as a JSON file
 - [OutfitChanger](https://github.com/whichtwix/OutfitChanger) - quickly switch between your favorite outfits
+- [StringNameUtils](https://github.com/xChipseq/StringNameUtils) - replace and modify strings
 - [NikoCat233's CrowdedMod](https://github.com/NikoCat233/CrowdedMod) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
 - [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
 - [VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of QoL (quality-of-life) improvements
