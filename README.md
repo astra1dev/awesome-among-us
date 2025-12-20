@@ -39,6 +39,7 @@ If you want to contribute, please open a pull request!
 - [Project Lotus](https://github.com/Lotus-AU/LotusContinued) - unique, beautiful, customizable. adds cosmetics, commands and hotkeys, and various options
 - [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - over 400 roles and 10 game modes
 - [MoreGamemodes](https://github.com/Rabek009/MoreGamemodes) - more game modes
+- [AmongUsRevamped](https://github.com/ApeMV/AmongUsRevamped) - without modded protocol (=> your lobby will be discoverable by vanilla players)
 
 ## Custom Maps
 
