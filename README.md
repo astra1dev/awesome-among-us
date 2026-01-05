@@ -54,6 +54,7 @@ If you want to contribute, please open a pull request!
 *Designed to enhance your gameplay experience*
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
+- [ModExplorer](https://github.com/xChipseq/ModExplorer) - list all installed plugins / mods and edit their configs
 - [Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
 - [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
 - [Mini.OutfitExporter](https://github.com/miniduikboot/Mini.OutfitExporter) - import and export your in-game outfit as a JSON file
