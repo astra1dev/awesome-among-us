@@ -73,6 +73,7 @@ If you want to contribute, please open a pull request!
 *External apps or utilties to enhance your experience*
 
 - [Dropship](https://github.com/xChipseq/Dropship) - CLI-based mod launcher and manager
+- [Starlight](https://allofus.dev/starlight.html) - mod launcher and manager for Android
 - [Starlight-PC](https://github.com/All-Of-Us-Mods/Starlight-PC) - cross-platform mod launcher and manager with modern UI/UX
 - [NewModLauncher](https://github.com/CallOfCreator/NewModLauncher) - cross-platform GUI mod launcher designed for NewMod and its compatible mods
 - [Mod Manager](https://github.com/MatuxGG/ModManager) (discontinued) - manage your Among Us mods with ease
