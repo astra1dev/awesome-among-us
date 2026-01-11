@@ -67,6 +67,7 @@ If you want to contribute, please open a pull request!
 - [GameLogger](https://github.com/whichtwix/GameLogger) - log game events to a txt file (kills, tasks, meetings, etc.)
 - [SmolMod](https://github.com/xtracube/smolmod) - makes the map and pets bigger, so you feel smaller
 - [MoveMod](https://github.com/OvernightAU/MoveMod) - move / drag any player with your mouse
+- [ScrollZoom](https://github.com/jukixyo/ScrollZoom) - zoom out the camera with your scrollwheel
 
 # Enhancements
 
