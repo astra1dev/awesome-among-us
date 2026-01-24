@@ -90,6 +90,7 @@ If you want to contribute, please open a pull request!
 
 # Resources
 
+- [AmongUsModdingInformation](https://github.com/Innersloth-LLC/AmongUsModdingInformation) - technical information for modding Among Us. This is an official repository by Innersloth.
 - [Reactor Discord server](https://reactor.gg/discord) - contains latest Among Us Mono .dll files and a helping community
 - [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
 - [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
