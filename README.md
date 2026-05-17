@@ -99,6 +99,7 @@ If you want to contribute, please open a pull request!
 - [BepInEx](https://github.com/BepInEx/BepInEx) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
   - [BepInEx.SplashScreen](https://github.com/BepInEx/BepInEx.SplashScreen) - splash screen that shows loading progress of BepInEx mods
 - [Version Comparisons](https://github.com/Pietrodjaowjao/AU-VersionComparisons) - view differences / compare Among Us versions to see what has changed
+- [AUWiki](https://astra1dev.github.io/AUwiki/) - documents the internal workings of Among Us
 - [sus.wiki](https://github.com/roobscoob/among-us-protocol) - writeup of the network protocol used in Among Us
 - [How to unstrip Unity Games](https://hackmd.io/@ghorsington/rJuLdZTzK), [alternative guide](https://www.reddit.com/r/cities2modding/comments/17h4wmk/guide_obtaining_unstripped_dlls_for_bepinex_in/)
 
