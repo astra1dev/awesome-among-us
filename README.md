@@ -10,6 +10,7 @@ If you want to contribute, please open a pull request!
   - [Utility Mods](#utility-mods)
   - [Custom Maps](#custom-maps)
 - [Enhancements](#enhancements)
+  - [Mod Managers](#mod-managers)
 - [Servers](#servers)
 - [Resources](#resources)
 - [Tools](#tools)
@@ -22,7 +23,7 @@ If you want to contribute, please open a pull request!
 
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
 - [Town of Us Mira](https://github.com/AU-Avengers/TOU-Mira) - Town of Us Reactivated, but cleaner using MiraAPI with many improvements
-- [Modding Us](https://github.com/overnightau/moddingus) - based on an old game version, but with lots of improvements and features
+- [Modding Us](https://github.com/overnightau/moddingus) (archived) - based on an old game version, but with lots of improvements and features
 - [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, game modes, and features
 - [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
 - [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - many new roles, settings and custom hats
@@ -64,7 +65,7 @@ If you want to contribute, please open a pull request!
 - [NikoCat233's CrowdedMod](https://github.com/NikoCat233/CrowdedMod) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
 - [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
 - [VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of QoL (quality-of-life) improvements
-- [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat (repo archived)
+- [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) (archived) - dark mode for the game chat
 - [GameLogger](https://github.com/whichtwix/GameLogger) - log game events to a txt file (kills, tasks, meetings, etc.)
 - [SmolMod](https://github.com/xtracube/smolmod) - makes the map and pets bigger, so you feel smaller
 - [MoveMod](https://github.com/OvernightAU/MoveMod) - move / drag any player with your mouse
@@ -73,14 +74,19 @@ If you want to contribute, please open a pull request!
 
 *External apps or utilties to enhance your experience*
 
-- [Dropship](https://github.com/xChipseq/Dropship) - CLI-based mod launcher and manager
-- [Starlight](https://allofus.dev/starlight.html) - mod launcher and manager for Android
-- [Starlight-PC](https://github.com/All-Of-Us-Mods/Starlight-PC) - cross-platform mod launcher and manager with modern UI/UX
-- [NewModLauncher](https://github.com/CallOfCreator/NewModLauncher) - cross-platform GUI mod launcher designed for NewMod and its compatible mods
-- [Mod Manager](https://github.com/MatuxGG/ModManager) (discontinued) - manage your Among Us mods with ease
 - [GLMod](https://github.com/MatuxGG/GLMod) - collect data inside Among Us to provide a complete match history and various stats on [Good Loss](https://goodloss.fr)
 - [AutoMuteUs](https://automute.us) - discord bot collecting game data to automatically mute/unmute players during games
 - [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - proximity chat
+
+## Mod Managers
+
+*Make it easy to download and manage [mods](#mods)*
+
+- [Dropship](https://github.com/xChipseq/Dropship) - CLI-based mod launcher and manager
+- [Starlight](https://allofus.dev/starlight/) - mod launcher and manager for Android
+- [Starlight-PC](https://github.com/All-Of-Us-Mods/Starlight-PC) - cross-platform mod launcher and manager with modern UI/UX
+- [NewModLauncher](https://github.com/CallOfCreator/NewModLauncher) (archived) - cross-platform GUI mod launcher designed for NewMod and its compatible mods
+- [Mod Manager](https://github.com/MatuxGG/ModManager) (archived) - manage your Among Us mods with ease
 
 # Servers
 
