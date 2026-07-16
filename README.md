@@ -87,12 +87,14 @@ If you want to contribute, please open a pull request!
 - [Starlight-PC](https://github.com/All-Of-Us-Mods/Starlight-PC) - cross-platform mod launcher and manager with modern UI/UX
 - [NewModLauncher](https://github.com/CallOfCreator/NewModLauncher) (archived) - cross-platform GUI mod launcher designed for NewMod and its compatible mods
 - [Mod Manager](https://github.com/MatuxGG/ModManager) (archived) - manage your Among Us mods with ease
+- [Bean Mod Manager](https://github.com/rewalo/BeanModManager) - a versatile mod manager for windows with a small-ish store
 
 # Servers
 
 *Play Among Us on non-official servers*
 
 - [Impostor](https://github.com/Impostor/Impostor) - open source reimplementation of the Among Us Server
+- [nico233](https://au.niko233.top/) - chill modded impostor servers
 - [skeld.net](https://skeld.net) - contains a lot of new game modes and modifiers
 
 # Resources
