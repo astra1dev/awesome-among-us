@@ -24,7 +24,7 @@ If you want to contribute, please open a pull request!
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
 - [Town of Us Mira](https://github.com/AU-Avengers/TOU-Mira) - Town of Us Reactivated, but cleaner using MiraAPI with many improvements
 - [Modding Us](https://github.com/overnightau/moddingus) (archived) - based on an old game version, but with lots of improvements and features
-- [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, game modes, and features
+- [LaunchpadReloaded](https://github.com/All-Of-Us-Mods/LaunchpadReloaded) (archived) - adds a ton of new roles, game modes, and features
 - [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
 - [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - many new roles, settings and custom hats
 - [StellarRolesAU](https://github.com/Mr-Fluuff/StellarRolesAU) - new roles, settings and custom cosmetics
