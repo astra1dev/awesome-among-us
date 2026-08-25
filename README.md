@@ -26,6 +26,7 @@ If you want to contribute, please open a pull request!
 - [Modding Us](https://github.com/overnightau/moddingus) (archived) - based on an old game version, but with lots of improvements and features
 - [LaunchpadReloaded](https://github.com/All-Of-Us-Mods/LaunchpadReloaded) (archived) - adds a ton of new roles, game modes, and features
 - [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
+- [Crewmeleon-Redrawn](https://github.com/All-Of-Us-Mods/Crewmeleon-Redrawn) - play [Meccha Chameleon](https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/) inside Among Us
 - [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - many new roles, settings and custom hats
 - [StellarRolesAU](https://github.com/Mr-Fluuff/StellarRolesAU) - new roles, settings and custom cosmetics
 - [AllTheRoles](https://github.com/Zeo666/AllTheRoles) - many new roles, modifiers, game modes, map settings, hats and more
