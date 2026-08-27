@@ -64,6 +64,7 @@ If you want to contribute, please open a pull request!
 - [OutfitChanger](https://github.com/whichtwix/OutfitChanger) - quickly switch between your favorite outfits
 - [StringNameUtils](https://github.com/xChipseq/StringNameUtils) - replace and modify strings
 - [Overloaded](https://github.com/All-Of-Us-Mods/Overloaded) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
+- [AleLuduMod](https://github.com/townofus-pl/AleLuduMod) - based on CrowdedMod, can show more than 15 players in the game UI
 - [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
 - [VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of QoL (quality-of-life) improvements
 - [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) (archived) - dark mode for the game chat
