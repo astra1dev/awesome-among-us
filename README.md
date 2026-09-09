@@ -57,6 +57,7 @@ If you want to contribute, please open a pull request!
 *Designed to enhance your gameplay experience*
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
+- [BetterAmongUs](https://github.com/D1GQ/BetterAmongUs) - QoL features, client improvements, host enhancements, commands, anti-cheat
 - [ModExplorer](https://github.com/xChipseq/ModExplorer) - list all installed plugins / mods and edit their configs
 - [CorsacCosmetics](https://github.com/XtraCube/CorsacCosmetics) - create and use your own cosmetics
 - [Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
