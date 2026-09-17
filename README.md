@@ -117,4 +117,4 @@ If you want to contribute, please open a pull request!
 # Tools
 
 - [UnityExplorer](https://github.com/yukieiji/UnityExplorer) - explore and inspect scenes and objects in-game. also has freecam, hook manager and C# console.
-- [Among Us AI](https://github.com/TimShaw1/Among-Us-AI) - an AI that plays Among Us
+- [Among Us AI](https://github.com/TimShaw1/Among-Us-AI) (archived) - an AI that plays Among Us
