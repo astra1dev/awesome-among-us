@@ -109,7 +109,7 @@ If you want to contribute, please open a pull request!
 - [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - modding framework built for making youtube video mods
 - [BepInEx](https://github.com/BepInEx/BepInEx) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
   - [BepInEx.SplashScreen](https://github.com/BepInEx/BepInEx.SplashScreen) - splash screen that shows loading progress of BepInEx mods
-- [AmongUsArchive](https://github.com/astra1dev/AmongUsArchive) - contains latest Mono .dll files. automatically generates diffs so you can easily compare game versions to see what has changed
+- [AmongUsArchive](https://github.com/astra1dev/AmongUsArchive) - stores Mono `Assembly-CSharp.dll` files. automatically generates diffs so you can easily compare game versions to see what has changed
 - [AUWiki](https://astra1dev.github.io/AUwiki/) - documents the internal workings of Among Us
 - [sus.wiki](https://github.com/roobscoob/among-us-protocol) - writeup of the network protocol used in Among Us
 - [How to unstrip Unity Games](https://hackmd.io/@ghorsington/rJuLdZTzK), [alternative guide](https://www.reddit.com/r/cities2modding/comments/17h4wmk/guide_obtaining_unstripped_dlls_for_bepinex_in/)
@@ -117,4 +117,5 @@ If you want to contribute, please open a pull request!
 # Tools
 
 - [UnityExplorer](https://github.com/yukieiji/UnityExplorer) - explore and inspect scenes and objects in-game. also has freecam, hook manager and C# console.
+- [dnSpyEx](https://github.com/dnSpyEx/dnSpy) and [ILSpy](https://github.com/icsharpcode/ILSpy) - decompile Mono `Assembly-CSharp.dll` files to explore the game's code
 - [Among Us AI](https://github.com/TimShaw1/Among-Us-AI) (archived) - an AI that plays Among Us
