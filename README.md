@@ -9,6 +9,7 @@ If you want to contribute, please open a pull request!
   - [Host-only Mods](#host-only-mods)
   - [Custom Maps](#custom-maps)
   - [Utility Mods](#utility-mods)
+  - [APIs](#apis)
 - [Enhancements](#enhancements)
   - [Mod Managers](#mod-managers)
 - [Servers](#servers)
@@ -74,6 +75,14 @@ If you want to contribute, please open a pull request!
 - [SmolMod](https://github.com/xtracube/smolmod) - makes the map and pets bigger, so you feel smaller
 - [MoveMod](https://github.com/OvernightAU/MoveMod) - move / drag any player with your mouse
 
+## APIs
+
+*Libraries and frameworks for developers that make it easier to work with certain parts of the game*
+
+- [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
+- [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
+- [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - modding framework built for making youtube video mods
+
 # Enhancements
 
 *External apps or utilties to enhance your experience*
@@ -104,9 +113,6 @@ If you want to contribute, please open a pull request!
 # Resources
 
 - [AmongUsModdingInformation](https://github.com/Innersloth-LLC/AmongUsModdingInformation) - technical information for modding Among Us. This is an official repository by Innersloth.
-- [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
-- [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
-- [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - modding framework built for making youtube video mods
 - [BepInEx](https://github.com/BepInEx/BepInEx) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
   - [BepInEx.SplashScreen](https://github.com/BepInEx/BepInEx.SplashScreen) - splash screen that shows loading progress of BepInEx mods
 - [AmongUsArchive](https://github.com/astra1dev/AmongUsArchive) - stores Mono `Assembly-CSharp.dll` files. automatically generates diffs so you can easily compare game versions to see what has changed
