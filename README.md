@@ -7,8 +7,8 @@ If you want to contribute, please open a pull request!
 
 - [Mods](#mods)
   - [Host-only Mods](#host-only-mods)
-  - [Utility Mods](#utility-mods)
   - [Custom Maps](#custom-maps)
+  - [Utility Mods](#utility-mods)
 - [Enhancements](#enhancements)
   - [Mod Managers](#mod-managers)
 - [Servers](#servers)
