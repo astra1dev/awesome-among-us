@@ -79,9 +79,9 @@ If you want to contribute, please open a pull request!
 
 *Libraries and frameworks for developers that make it easier to work with certain parts of the game*
 
-- [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
-- [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
-- [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - modding framework built for making youtube video mods
+- [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - roles, buttons, events, assets, keybinds, settings, and more. comprehensive, yet straightforward
+- [Reactor](https://github.com/NuclearPowered/Reactor) - provides modded handshake, a custom RPC API, and a lot of utility methods
+- [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - for making YouTube video mods
 
 # Enhancements
 
