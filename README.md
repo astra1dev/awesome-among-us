@@ -80,10 +80,11 @@ If you want to contribute, please open a pull request!
 *Libraries and frameworks for developers that make it easier to work with certain parts of the game*
 
 - [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - roles, buttons, events, assets, keybinds, settings, and more. comprehensive, yet straightforward
-- [Reactor](https://github.com/NuclearPowered/Reactor) - provides modded handshake, a custom RPC API, and a lot of utility methods
+- [Reactor](https://github.com/NuclearPowered/Reactor) - modded handshake, a custom RPC API, and a lot of utility methods
 - [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - for making YouTube video mods
 - [PathfindingAPI](https://github.com/CallOfCreator/PathfindingAPI) - A* pathfinding to find routes through the map while checking for collisions
 - [AchievementsAPI](https://github.com/am-clonec/Achievements-API) - add your own achievements. easy to use and customize
+- [VentFramework (Continued)](https://github.com/Lotus-AU/VentFramework-Continued) - modded handshake, custom RPC attributes, localization system, chat command manager
 
 # Enhancements
 
