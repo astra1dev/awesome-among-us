@@ -82,6 +82,7 @@ If you want to contribute, please open a pull request!
 - [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - roles, buttons, events, assets, keybinds, settings, and more. comprehensive, yet straightforward
 - [Reactor](https://github.com/NuclearPowered/Reactor) - provides modded handshake, a custom RPC API, and a lot of utility methods
 - [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - for making YouTube video mods
+- [PathfindingAPI](https://github.com/CallOfCreator/PathfindingAPI) - A* pathfinding to find routes through the map while checking for collisions
 - [AchievementsAPI](https://github.com/am-clonec/Achievements-API) - add your own achievements. easy to use and customize
 
 # Enhancements
