@@ -110,6 +110,7 @@ If you want to contribute, please open a pull request!
 *Play Among Us on non-official servers*
 
 - [Impostor](https://github.com/Impostor/Impostor) - open source reimplementation of the Among Us Server
+- [Miniduikboot Modded Servers](https://duikbo.at/) - the most popular servers, operating since 2021 by the people that maintain Impostor
 - [NikoCat233](https://au.niko233.top/) - active modded Impostor servers
 - [skeld.net](https://skeld.net) - contains a lot of new game modes and modifiers
 
