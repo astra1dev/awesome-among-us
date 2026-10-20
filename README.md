@@ -57,7 +57,7 @@ If you want to contribute, please open a pull request!
 
 *Designed to enhance your gameplay experience*
 
-- [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
+- [AUnlocker](https://github.com/AstralKitsune/AUnlocker) - unlock cosmetics, chat, account, and more
 - [BetterAmongUs](https://github.com/D1GQ/BetterAmongUs) - QoL features, client improvements, host enhancements, commands, anti-cheat
 - [ModExplorer](https://github.com/xChipseq/ModExplorer) - list all installed plugins / mods and edit their configs
 - [CorsacCosmetics](https://github.com/XtraCube/CorsacCosmetics) - create and use your own cosmetics
@@ -121,8 +121,8 @@ If you want to contribute, please open a pull request!
 - [AmongUsModdingInformation](https://github.com/Innersloth-LLC/AmongUsModdingInformation) - technical information for modding Among Us. This is an official repository by Innersloth.
 - [BepInEx](https://github.com/BepInEx/BepInEx) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
   - [BepInEx.SplashScreen](https://github.com/BepInEx/BepInEx.SplashScreen) - splash screen that shows loading progress of BepInEx mods
-- [AmongUsArchive](https://github.com/astra1dev/AmongUsArchive) - stores Mono `Assembly-CSharp.dll` files. automatically generates diffs so you can easily compare game versions to see what has changed
-- [AUWiki](https://astra1dev.github.io/AUwiki/) - documents the internal workings of Among Us
+- [AmongUsArchive](https://github.com/AstralKitsune/AmongUsArchive) - stores Mono `Assembly-CSharp.dll` files. automatically generates diffs so you can easily compare game versions to see what has changed
+- [AUWiki](https://astralkitsune.github.io/AUwiki/) - documents the internal workings of Among Us
 - [sus.wiki](https://github.com/roobscoob/among-us-protocol) - writeup of the network protocol used in Among Us
 - [How to unstrip Unity Games](https://hackmd.io/@ghorsington/rJuLdZTzK), [alternative guide](https://www.reddit.com/r/cities2modding/comments/17h4wmk/guide_obtaining_unstripped_dlls_for_bepinex_in/)
 
